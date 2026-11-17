@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aviso de Corto Plazo SMN</string>
+    <string name="notification_channel_id">Alerta Meteorológica</string>
+    <string name="notification_title">Notificación SMN</string>
+    <string name="cancel_processing">Proceso</string>
+    <string name="channel_name">Canal SMN Alerta</string>
+    <string name="msg_validation">Completar</string>
+    <string name="menu_agregar_depto">Agregar</string>
+    <string name="title_activity_nuevo_departamento">Nuevo Departamento</string>
+    <string name="menu_agregar_departamento">Agregar Departamento</string>
+</resources>
